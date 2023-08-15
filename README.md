@@ -5,3 +5,4 @@ rainfall and subway ridership. Using statistical techniques and
 visualization tools, we intend to arrive at a compelling conclusion based on the analyzed
 dataset. We used the concept of MapReduce and its implementation using Python.
 
+I worked on this project with a team of three individuals, including myself.
